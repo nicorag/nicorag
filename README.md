@@ -11,6 +11,11 @@ I'm currently learning about ML, AI, Geophysics and Geology...
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicorag&theme=radical)
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+## Github Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=nicorag&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ## Find me at:

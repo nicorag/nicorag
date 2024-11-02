@@ -5,8 +5,10 @@ I'm currently learning about ML, AI, Geophysics and Geology...
 ## Skills:
 
 ## Stats:
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nicorag&show_icons=true&theme=radical)
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=nicorag&layout=compact&theme=radical)
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nicorag&show_icons=true&theme=radical)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicorag&theme=radical)
 
 

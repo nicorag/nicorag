@@ -22,6 +22,8 @@ I'm currently learning about ML, AI, Geophysics and Geology...
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillermo_A_Nicora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/nicora2023)
 
+## Contact me:
+[![Email](https://img.shields.io/badge/Gmail-guillermo.nicora.shn@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:guillermo.nicora.shn@gmail.com)
 
 <!--
 **nicorag/nicorag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

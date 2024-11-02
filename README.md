@@ -6,7 +6,8 @@ I'm currently learning about ML, AI, Geophysics and Geology...
 
 ## Find me at:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillermo-A-Nicora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/nicora2023/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillermo_Nicora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/nicora2023)
+
 
 <!--
 **nicorag/nicorag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

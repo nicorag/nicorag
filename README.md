@@ -2,6 +2,34 @@
 
 I'm currently learning about ML, AI, Geophysics and Geology...
 
+## Experience
+
+### Data Processing & Analysis
+- ![Bathymetry](https://img.shields.io/badge/Bathymetry-0077B6?style=for-the-badge)
+- ![GIS](https://img.shields.io/badge/GIS-32CD32?style=for-the-badge)
+- ![Seismic Data](https://img.shields.io/badge/Seismic_Data-FF4500?style=for-the-badge)
+- ![Side Scan Sonar](https://img.shields.io/badge/Side_Scan_Sonar-4682B4?style=for-the-badge)
+- ![Sub-Bottom Profiler (SBP)](https://img.shields.io/badge/Sub--Bottom_Profiler-8B4513?style=for-the-badge)
+- ![Ground Penetrating Radar (GPR)](https://img.shields.io/badge/GPR-9932CC?style=for-the-badge)
+
+### Field Work Experience
+- Conducted borehole surveys in Buenos Aires Province
+- Utilized GPS for precise location mapping
+- Operated Ground Penetrating Radar (GPR) equipment in various terrains
+
+### Software Proficiency
+- ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+- ![GMT](https://img.shields.io/badge/GMT-000000?style=for-the-badge)
+- ![Surfer](https://img.shields.io/badge/Surfer-FFD700?style=for-the-badge)
+- ![Oasis montaj](https://img.shields.io/badge/Oasis_montaj-FF6347?style=for-the-badge)
+
+### Key Skills
+- Data acquisition and processing
+- Geophysical interpretation
+- Field survey planning and execution
+- Integration of multi-source geophysical and geologycal data
+- Reporting and visualization of geophysical results
+
 ## Skills:
 ### Operating Systems:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)

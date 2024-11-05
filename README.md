@@ -15,7 +15,7 @@ I'm currently learning about ML, AI, Geophysics and Geology...
 ### Field Work Experience
 - Conducted borehole surveys in Buenos Aires Province
 - Utilized GPS for precise location mapping
-- Operated Ground Penetrating Radar (GPR) equipment in various terrains
+- Help to operate Ground Penetrating Radar (GPR) equipment
 
 ### Software Proficiency
 - ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
